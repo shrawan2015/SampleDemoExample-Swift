@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTabelVC/ItemsViewController.swift"
+            timestampString = "489933994.737467"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ItemsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewTabelVC.ItemsViewController.init (style : __C.UITableViewStyle) -&gt; NewTabelVC.ItemsViewController"
+                  moduleName = "NewTabelVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/NewTabelVC/NewTabelVC/ItemsViewController.swift"
+                  timestampString = "489934860.254463"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewTabelVC.ItemsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; NewTabelVC.ItemsViewController"
+                  moduleName = "NewTabelVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/NewTabelVC/NewTabelVC/ItemsViewController.swift"
+                  timestampString = "489934860.254607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewTabelVC.ItemsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;NewTabelVC.ItemsViewController&gt;"
+                  moduleName = "NewTabelVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/NewTabelVC/NewTabelVC/ItemsViewController.swift"
+                  timestampString = "489934860.254704"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

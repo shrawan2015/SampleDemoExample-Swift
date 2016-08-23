@@ -1,0 +1,6 @@
+framework module Pods_RXsWIFTEXamplENEW {
+  umbrella header "Pods-RXsWIFTEXamplENEW-umbrella.h"
+
+  export *
+  module * { export * }
+}

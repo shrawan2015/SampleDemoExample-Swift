@@ -1,0 +1,6 @@
+framework module Pods_RXSWIFTEXAMPLES_RXSWIFTEXAMPLESTests {
+  umbrella header "Pods-RXSWIFTEXAMPLES-RXSWIFTEXAMPLESTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

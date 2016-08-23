@@ -1,0 +1,30 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RxSwiftProject' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+ # //  pod 'RxSwift'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+#use_frameworks!
+
+pod 'RxSwift', :git => 'https://github.com/ReactiveX/RxSwift', :branch => 'rxswift-2.0'
+
+#pod 'ReactiveX/RxSwift'
+pod 'RxCocoa'
+
+  # Pods for RxSwiftProject
+
+  target 'RxSwiftProjectTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'RxSwiftProjectUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
