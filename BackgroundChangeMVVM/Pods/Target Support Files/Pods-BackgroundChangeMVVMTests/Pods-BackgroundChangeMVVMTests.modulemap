@@ -1,0 +1,6 @@
+framework module Pods_BackgroundChangeMVVMTests {
+  umbrella header "Pods-BackgroundChangeMVVMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
