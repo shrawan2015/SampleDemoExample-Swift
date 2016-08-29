@@ -1,0 +1,6 @@
+framework module Pods_ReactiveSwift_Revised {
+  umbrella header "Pods-ReactiveSwift-Revised-umbrella.h"
+
+  export *
+  module * { export * }
+}
